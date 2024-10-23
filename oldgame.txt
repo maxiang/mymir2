@@ -3,8 +3,8 @@
 0=怀旧服务器|经典好玩传奇|经典好玩传奇1区|172.25.82.189|7000|1|http://172.25.82.189:8800/WClientdat/
 
 [WClient]
-0=http://127.0.0.1:8800/WClientdat/
-0=http://127.0.0.1:8800/WClientdat/
+0=http://172.25.82.189:8800/WClientdat/
+0=http://172.25.82.189:8800/WClientdat/
 
 [Setup]
 官方首页=http://127.0.0.1
