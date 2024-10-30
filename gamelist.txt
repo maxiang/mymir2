@@ -3,7 +3,8 @@
 0=难得糊涂|难得糊涂1区|难得糊涂1区|192.168.184.25|7000|1|http://192.168.184.25:8800/WClientdat/
 
 [WClient]
-
+0=http://192.168.184.25:8800/WClientdat/
+0=http://192.168.184.25:8800/WClientdat/
 [Setup]
 官方首页=http://www.996m2.com
 公告地址=http://www.996m2.com
