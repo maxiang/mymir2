@@ -43,3 +43,4 @@
 ;0=1     \     经典好玩传奇.dat     20BCBF610F3A9B8FC75597F896CCD16E     http://120.26.113.37/经典好玩传奇.dat
 ;1=1     \     难得糊涂.exe     5325C6C79405F80C3D243C9F35F3E4B9     http://192.168.214.61/难得糊涂.zip
 ;1=1     \     难得糊涂.dat     E52C904C8B01F39E07340CB78EC455C4     http://192.168.214.61/难得糊涂.dat
+0=0	    wav	sound.lst	4E31944DD1138A9D98E8AEA50555090D	http://172.21.137.219/sound.lst
